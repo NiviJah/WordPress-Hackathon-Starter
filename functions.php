@@ -5,10 +5,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 Class hk_FrameWork {
-    
+
     public function __construct() {
         
-        add_action( 'wp_enqueue_scripts', array($this, 'cs_style_and_scripts'));
+        add_action( 'wp_enqueue_scripts', array($this, 'hk_style_and_scripts'));
         add_action( 'init', array($this, 'hk_menus') );
         $this->helper();
         
