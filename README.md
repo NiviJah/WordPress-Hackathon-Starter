@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Wordpress Hackathon Starter Theme
 
-You can use the [editor on GitHub](https://github.com/NiviJah/WordPress-Hackathon-Starter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a starter theme designed for developers and made bu the awsome Advanced [WordPress Israeli community](https://www.facebook.com/groups/wordpresspro/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The entire development process is done trough Github with [Discord](https://discord.gg/GkdSv2f) as our communication platform of choice
 
-### Markdown
+### Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are a lot of modern design tools out there, but we wanted something custom made we as developer could use to bootstrap our WordPress projects in the best way possible.
 
-```markdown
-Syntax highlighted code block
+Moreover, We thought a collaboration of this sort would bond the community together, create a collaborative network of professionals, and teach whoever wants to be thought about our development workflow and methods
 
-# Header 1
-## Header 2
-### Header 3
+### Development Tools
+* The development proccess will be done by forking this repository and using pull request.
+* Voice and chat communication will be in our dedicated [Discord server](https://discord.gg/GkdSv2f)
 
-- Bulleted
-- List
+### Tools of choice
+_This is an initial and incomplete list_
 
-1. Numbered
-2. List
+* Bootstrap 4
+* Gulp
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NiviJah/WordPress-Hackathon-Starter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
