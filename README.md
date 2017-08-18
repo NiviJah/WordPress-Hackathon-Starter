@@ -1,6 +1,6 @@
 ## Wordpress Hackathon Starter Theme
 
-This is a starter theme designed for developers and made bu the awsome Advanced [WordPress Israeli community](https://www.facebook.com/groups/wordpresspro/)
+This is a starter theme designed for developers and made by the awesome [Advanced WordPress Israeli community](https://www.facebook.com/groups/wordpresspro/)
 
 The entire development process is done trough Github with [Discord](https://discord.gg/GkdSv2f) as our communication platform of choice
 
