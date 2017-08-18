@@ -21,4 +21,8 @@ _This is an initial and incomplete list_
 * Gulp / Webpack
 * SASS
 
-
+### Best practices
+* i18n all the things \o/
+* Small as possible SASS components
+* Reusable template parts
+* srcset
